@@ -14,6 +14,7 @@ libtool
 qd-config
 src/.deps/
 src/.libs/
+src/libqd.la
 src/*.lo
 src/*.o
 stamp-h1
